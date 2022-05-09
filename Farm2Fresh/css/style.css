@@ -1,0 +1,181 @@
+.navbar {
+   background-color: gray;
+   padding: 10px;
+   color: antiquewhite;
+}
+.nav-item{
+    border: 2px solid rgb(221, 34, 149);
+    box-shadow: 2px 1px black;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.fruits-style{
+    height: 300px;
+    border-radius: 10px 0 10px 0;
+    box-shadow: 5px 3px 3px black;
+    margin: 20px;
+
+}
+.fruits-style:hover{
+    box-shadow : 8px 5px 5px black;
+    border-radius: 50px;
+}
+.header{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+.header-section{
+     text-align: left;
+     display: inline-block;
+     width: 40%;
+     vertical-align: top;
+}
+.btn-header{
+    border: 2px black;
+    border-radius: 10px 0 10px 0 ;
+    height: 25px;
+    font-size: 20px;
+    
+    }
+.btn-header:hover{
+    box-shadow: 2px 3px 2px rgb(66, 39, 39);
+}
+.tagline{
+    color: purple;
+    font-size: 30px;
+}
+.btn-order{
+    background-color: rgb(30, 163, 180);
+    color: black;
+    margin-right: 20px;
+    border: 1px solid black;
+}
+.btn-call{
+    background-color: rgb(245, 206, 135);
+    color: black;
+    border: 1px solid black;
+}
+.h-center{
+    text-align: center;
+}
+.myfeature{
+    font-size: 40px;
+    
+}
+.heading{
+    font-size: 50px;
+    color: rgb(48, 126, 48);
+    text-align: center;
+}
+.feature-container{
+    text-align: center;
+    height: 200px;
+    }
+.feature-icon{
+height:150px;
+width: 150px;
+display:inline-block;
+background-color:white;
+border-radius: 20px;
+box-shadow: 2px 3px 2px rgb(116, 116, 223);
+margin-left: 30px;
+margin: 30px;
+cursor: pointer;
+
+}
+.feature-icon:hover{
+    box-shadow: 5px 5px 5px rgb(60, 60, 153);
+}
+.feature-circle{
+    background-color: aqua;
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right:auto ;
+    border-radius: 50%;
+
+}
+.section-fruits{
+    height: 500px;
+    background-color: rgb(248, 87, 87);
+}
+.section-vegetables{
+    height: 500px;
+    background-color: rgb(109, 216, 127);
+}
+.section-dairy-item{
+    height: 700px;
+    background-color: rgb(228, 228, 150);
+}
+.section-contact{
+    height:350px;
+    background-color: rgb(177, 224, 228);
+}
+.picture{
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 3px 5px black;
+}
+.btn-fruits{
+    background-color:black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px white;
+}
+.btn-fruits:hover{
+    box-shadow: 5px 3px 3px red;
+    border-radius: 25px;
+
+}
+.display{
+    display: inline-block;
+    margin: 30px;
+}
+.picture2{
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: 5px 3px 5px rgb(204, 59, 59);
+}
+.display2{
+    display: inline-block;
+    margin:10px;
+    text-align: center;
+}
+.veg-pic{
+    height:300px;
+    border-radius: 20px;
+    box-shadow: 5px 3px 5px rgb(75, 197, 37);
+}
+.top-btn{
+    background-color: black;
+    color: whitesmoke;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: 10px;
+    box-shadow: 5px red;
+    padding: 7px;
+}
+#send-btn{
+   background-color: brown;
+   color: black;
+   
+   box-shadow: 5px gray;
+   border-radius: 5px;
+
+}
+.fond{
+    font-size:20px;
+}
+
+
+
+
+
